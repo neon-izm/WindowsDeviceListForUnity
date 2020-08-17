@@ -7,7 +7,7 @@ Check your pc connected devices for compatibility
 # Install
 import unitypackage
 
-# usage
+# Usage
 see DeviceListupSample.cs  
 
 # Dependency
